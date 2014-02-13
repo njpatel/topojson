@@ -1,0 +1,12 @@
+{
+  "name": "topojson",
+  "repo": "njpatel/topojson",
+  "description": "An extension to GeoJSON that encodes topology.",
+  "keywords": ["d3", "w3c", "visualization", "svg", "topojson"],
+  "version": "1.4.6",
+  "main": "topojson.js",
+  "scripts": ["topojson.js"],
+  "dependencies": {},
+  "development": {},
+  "license": "BSD"
+}
